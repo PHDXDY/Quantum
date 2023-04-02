@@ -1,4 +1,4 @@
-# Quantum
+# Quantum Encryption
 Our research presented a lightweight and flexible way to achieve quantum-secure device authentication. It will give readers a hint of how to exploit the flexibility of lower-layer resources to control the level of security even though the security is on a quantum-secure level.
 
 [1] D. Xu, K. Yu, and J. A. Ritcey, “Cross-Layer Device Authentication with Quantum Encryption for 5G Enabled IIoT in Industry 4.0”, IEEE Transactions on Industrial Informatics, vol. 18, no. 9,  pp. 6368--6378, Sept. 2022.
